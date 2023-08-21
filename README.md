@@ -52,4 +52,4 @@ This Word Counter Tool was created by [Your Name] and is provided under the [lic
 
 ## License
 
-[License type, e.g., MIT License]
+[This project is licensed under the MIT License.]
